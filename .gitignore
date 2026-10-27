@@ -1,0 +1,6 @@
+# Microsoft Office temporary files
+~$*.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
